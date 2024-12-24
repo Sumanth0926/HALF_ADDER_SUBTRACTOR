@@ -36,6 +36,15 @@ Figure-02 HALF Subtractor
 ![7c2cc6a8-806b-412c-b5e6-d76ab8168626](https://github.com/user-attachments/assets/9c67ef90-d31d-4214-9566-fa7e1be97fd6)
 
 **Truthtable**
+**Half Adder**
+
+![WhatsApp Image 2024-12-21 at 09 38 15_b042039a](https://github.com/user-attachments/assets/a1613588-2ebf-4011-b2c9-3b415cb83e11)
+
+
+**Half subtractor**'
+
+![WhatsApp Image 2024-12-21 at 09 38 09_d248f48c](https://github.com/user-attachments/assets/9d0ed355-d058-47e7-8195-bbb8133ac82e)
+
 
 **Procedure**
 
@@ -77,19 +86,30 @@ RegisterNumber:24000831
 
 
 **RTL Schematic**
+
+(i)half adder
 ![Screenshot 2024-11-15 132955](https://github.com/user-attachments/assets/c6cb2726-3c51-42fc-a148-8b92b798cf72)
+
+(ii)half subtractor
+
+
 ![Screenshot 2024-11-15 134529](https://github.com/user-attachments/assets/7c789e4e-1bc7-4f12-a81c-8430105152a2)
 
 
 
 **TIMING Waveform**
-![min-ha](https://github.com/user-attachments/assets/0763aa0d-be5c-4814-ab95-fa100cf3f152)
+
+
+ (i) half adder
+![WhatsApp Image 2024-12-24 at 18 02 00_f93748fb](https://github.com/user-attachments/assets/6eb6e657-5765-41d4-b50a-c24ddaa1541c)
+
+ (ii) half subtractor
 ![Screenshot 2024-11-15 134929](https://github.com/user-attachments/assets/fc24f9da-1c4a-41b7-9efe-b765f02f5dee)
 
 
 
 
 **Result:**
-Thus the Half and Full Subtractors are studied and the truth tables are verified.
-Thus the Half and Full Adders are studied and the truth tables are verified.
+Thus the Half adder and half Subtractors are studied and the truth tables are verified.
+Thus the Half adder and half Adders are studied and the truth tables are verified.
 
