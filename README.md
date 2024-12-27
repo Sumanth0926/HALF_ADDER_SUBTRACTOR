@@ -21,7 +21,7 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
 
 Figure -01 HALF ADDER
-![cdce3339-63ba-4934-bec7-462af2157ab7](https://github.com/user-attachments/assets/9935db08-3a0d-4847-8010-78e6e2d20232)
+
 
 **Half Subtractor**
 
@@ -33,7 +33,7 @@ Borrow = A’B
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure-02 HALF Subtractor
-![7c2cc6a8-806b-412c-b5e6-d76ab8168626](https://github.com/user-attachments/assets/9c67ef90-d31d-4214-9566-fa7e1be97fd6)
+
 
 **Truthtable**
 **Half Adder**
@@ -101,7 +101,8 @@ RegisterNumber:24000831
 
 
  (i) half adder
-![WhatsApp Image 2024-12-24 at 18 02 00_f93748fb](https://github.com/user-attachments/assets/6eb6e657-5765-41d4-b50a-c24ddaa1541c)
+![WhatsApp Image 2024-12-27 at 14 05 24_34684f0a](https://github.com/user-attachments/assets/67db2d1e-455e-4c58-ab05-dcb52091dbd7)
+
 
  (ii) half subtractor
 ![Screenshot 2024-11-15 134929](https://github.com/user-attachments/assets/fc24f9da-1c4a-41b7-9efe-b765f02f5dee)
